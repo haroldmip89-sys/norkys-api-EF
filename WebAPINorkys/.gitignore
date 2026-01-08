@@ -1,0 +1,49 @@
+# =========================
+# Visual Studio / .NET
+# =========================
+
+# Visual Studio
+.vs/
+bin/
+obj/
+
+# Build folders
+bin/
+obj/
+out/
+
+# NuGet
+*.nupkg
+packages/
+
+# Rider
+.idea/
+
+# Logs
+*.log
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Visual Studio Indexes / caches
+*.vsidx
+
+# =========================
+# Dotnet Core / EF
+# =========================
+
+# Entity Framework migrations
+Migrations/
+
+# Publish folder
+publish/
+
+# Dotnet tools
+*.dotsettings.user
+
+# =========================
+# Optional: personal secrets
+# =========================
+appsettings*.json
+secrets.json

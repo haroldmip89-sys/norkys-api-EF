@@ -1,0 +1,6 @@
+@WebAPINorkys_HostAddress = http://localhost:5218
+
+GET {{WebAPINorkys_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
